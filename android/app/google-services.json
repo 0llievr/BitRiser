@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317788894955",
+    "project_id": "bitriser",
+    "storage_bucket": "bitriser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317788894955:android:46c1d238ad80c0f0a8f0ae",
+        "android_client_info": {
+          "package_name": "com.example.bitriser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317788894955-g5jhjnau9pfqr6ija4s8irkvk8050o6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bitriser",
+            "certificate_hash": "59d8da24f76dbf67726704bdec10e9b890135a1a"
+          }
+        },
+        {
+          "client_id": "317788894955-rcddr53m1qnslbautkj8qs9mlv2av7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-t0_74sZeNEdJ5bXt9zG3yxTIwT_Z_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317788894955-rcddr53m1qnslbautkj8qs9mlv2av7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
